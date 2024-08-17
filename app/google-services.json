@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371906035570",
+    "project_id": "cardscampaigns",
+    "storage_bucket": "cardscampaigns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371906035570:android:110b108eb013a76153e7eb",
+        "android_client_info": {
+          "package_name": "com.cc.cardscampaignscompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YhSU7IbStvttGMCMQYCpFJcgEvKYo8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
